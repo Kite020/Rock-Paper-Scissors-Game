@@ -4,9 +4,9 @@ This project is an interactive browser-based implementation of the classic "Rock
 
 # Key Features:
 
-- Interactive Gameplay: Players can choose between Rock, Paper, or Scissors by clicking on corresponding icons.
-- Dynamic Scoring: Tracks scores for both the player and the computer in real-time.
-- Responsive Feedback: Displays the result of each round with clear messages such as win, lose, or draw.
-- Simple and Intuitive UI: A visually appealing layout with large, recognizable icons for choices.
-- Lightweight and Fast: Runs entirely in the browser, requiring no additional installations or resources.
-- Responsive Design: Optimized for different screen sizes to ensure a seamless experience across devices.
+- Interactive Gameplay
+- Dynamic Scoring
+- Responsive Feedback
+- Simple and Intuitive UI
+- Lightweight and Fast
+- Responsive Design
